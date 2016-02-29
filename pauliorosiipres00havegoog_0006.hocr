@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pauliorosiipres00havegoog_0006.png"; bbox 0 0 2634 4434; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 194 509 972 769">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 98 411 972 769">
+     <span class='ocr_line' id='line_1_1' title="bbox 194 509 972 769; baseline -0.006 -130.549"><span class='ocrx_word' id='word_1_1' title='bbox 194 509 972 769; x_wconf 55' lang='lat' dir='ltr'><strong>PAUnlgssosu</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 237 953 943 1042">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 237 953 943 1042">
+     <span class='ocr_line' id='line_1_2' title="bbox 237 953 943 1042; baseline 0.001 -1"><span class='ocrx_word' id='word_1_2' title='bbox 237 953 439 1042; x_wconf 75' lang='lat' dir='ltr'><em>PRESB</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 448 955 650 1042; x_wconf 77' lang='lat' dir='ltr'><em>YTERI</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 685 955 943 1042; x_wconf 77' lang='lat' dir='ltr'><em>HISPANI</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 357 1314 823 1422">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 357 1314 823 1422">
+     <span class='ocr_line' id='line_1_3' title="bbox 357 1314 823 1422; baseline 0.002 -4"><span class='ocrx_word' id='word_1_5' title='bbox 357 1350 584 1422; x_wconf 74' lang='lat' dir='ltr'>ADVERSUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 618 1314 823 1420; x_wconf 70' lang='lat' dir='ltr'>PAGANos</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 72 1641 1117 1860">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 72 1641 1117 1860">
+     <span class='ocr_line' id='line_1_4' title="bbox 72 1641 1117 1860; baseline 0.002 -6"><span class='ocrx_word' id='word_1_7' title='bbox 72 1641 560 1860; x_wconf 62' lang='lat' dir='ltr'><strong>fflswonmnum</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 582 1714 783 1859; x_wconf 77' lang='lat' dir='ltr'><strong>fflssffl</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 811 1713 1117 1860; x_wconf 61' lang='lat' dir='ltr'><strong>samm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 467 3887 741 3992">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 467 3887 741 3992">
+     <span class='ocr_line' id='line_1_5' title="bbox 467 3887 741 3992; baseline -0.007 0"><span class='ocrx_word' id='word_1_10' title='bbox 467 3887 741 3992; x_wconf 56' lang='lat' dir='ltr'><strong>macomus</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1322 4434">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1322 4434">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1322 4434; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1322 4434; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
